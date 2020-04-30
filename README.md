@@ -1,3 +1,3 @@
 # Glass-Background
 
-Gradient Background of a <div> element with transparency.
+Gradient Background of a <code><div></code> element with transparency.
